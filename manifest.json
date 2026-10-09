@@ -1,0 +1,119 @@
+{
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 46,
+      "sha256": "e992e05c8a361502d338e161f4b7546693fb9a5119166aedd65cae10c7569faa"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4042,
+      "sha256": "be8885422188f6165853b115df07edb3ac0985543ab8b2ec9b315975c55ed566"
+    },
+    {
+      "path": "assets/animation.json",
+      "bytes": 2512,
+      "sha256": "3bfe983a9a3e1f36a6de9f786549c7751f56d22a761e096c655d4d2cd41a3ffb"
+    },
+    {
+      "path": "assets/spritesheet.png",
+      "bytes": 2838716,
+      "sha256": "1a0b2b922aec9f0b8127c9f885af95b80bbe1f84d49040be217f462dd72c5ee3"
+    },
+    {
+      "path": "previews/failed.apng",
+      "bytes": 339106,
+      "sha256": "97936aa0d0250c84f9185a0e70acd0c3b7950994579f2cc028534c9c157a11e7"
+    },
+    {
+      "path": "previews/idle-jump-idle.apng",
+      "bytes": 721165,
+      "sha256": "dde615e2efa153e921694107ab1b7c9bffd55aae67e6c7c5d703e61204bb0e61"
+    },
+    {
+      "path": "previews/idle.apng",
+      "bytes": 258117,
+      "sha256": "70278aac518793baad02e48b77045b8615a08f4007d5dbad92f92d0af29b4b8c"
+    },
+    {
+      "path": "previews/jumping.apng",
+      "bytes": 205053,
+      "sha256": "5674bfe9f57621dcdaccc67b08b9586557c8038abc32f473827e9086faaa4587"
+    },
+    {
+      "path": "previews/naishu-all-poses.png",
+      "bytes": 2307931,
+      "sha256": "6c33ced0ba2bb14732c423964be5e9fca0b9a492aff52a78b7f1a56b8d578537"
+    },
+    {
+      "path": "previews/naishu-complete-preview.apng",
+      "bytes": 5782031,
+      "sha256": "61890b0e81686793f063af03a1050cd64cde7bce3d4bba6cb916ba36adb37b64"
+    },
+    {
+      "path": "previews/naishu-complete-preview.mp4",
+      "bytes": 372044,
+      "sha256": "3a8eb5172ecd6eb88303b4e4e25a4b8ab3a7e6aa185d66f1dd57fc27f7ebf53e"
+    },
+    {
+      "path": "previews/naishu-four-motion-stills.png",
+      "bytes": 159117,
+      "sha256": "c70b50600867af5fcff9d5240ba26a7287dd1699cfca502b6975e4dcd9e9cd81"
+    },
+    {
+      "path": "previews/naishu-look-directions.apng",
+      "bytes": 630961,
+      "sha256": "1117ff9d3510341bd8e861c1cb53ec92bf95e9cabe5909d4579e9ae2218b93d3"
+    },
+    {
+      "path": "previews/naishu-look-directions.png",
+      "bytes": 845432,
+      "sha256": "54f0c86094d69e430c2b29b85fc23f6fec76c2de5c5fc35512643af2da9f4291"
+    },
+    {
+      "path": "previews/review.apng",
+      "bytes": 272778,
+      "sha256": "9896711447dcb175e3fb2c9418d696d790878d02ac92d167e119692da1da21f2"
+    },
+    {
+      "path": "previews/running-left.apng",
+      "bytes": 377903,
+      "sha256": "59b2a42d56499782f01b3b0a6d64835ab09d5814fe3f993eb5eb4a42d94e7e33"
+    },
+    {
+      "path": "previews/running-right.apng",
+      "bytes": 378245,
+      "sha256": "f30c9bbfda8b7dd3dc2fb094e4ffbd3e95c3c80998e63053c4c34ef4b405d7d2"
+    },
+    {
+      "path": "previews/running.apng",
+      "bytes": 255362,
+      "sha256": "ffdebc2e27edc8ee84b9c4c7018eff507c466fad271184f423c67a82a0af40d9"
+    },
+    {
+      "path": "previews/waiting.apng",
+      "bytes": 265853,
+      "sha256": "2b0ea577c0b3f0b34a656978b803f7f40028c67676947093ed206d236bb8952d"
+    },
+    {
+      "path": "previews/waving.apng",
+      "bytes": 180508,
+      "sha256": "f844a86be408c9e7a11df49f47ee98dd1f1e95d2c557475218b5255321950c90"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 13,
+      "sha256": "dce978a554b00caca70d59f539d25c61fcc89681e02d7fec42948cd5c3c0a127"
+    },
+    {
+      "path": "scripts/apng_fullframes.py",
+      "bytes": 2124,
+      "sha256": "5a0af392d63b48e5171d374bd1d326c2dd657fb2d742625112a66c2363c3ca28"
+    },
+    {
+      "path": "scripts/verify_export.py",
+      "bytes": 1874,
+      "sha256": "a9314c5edca3abe9143872a39db4025b3515f569a02d8dfbfd33ba190129f5c1"
+    }
+  ]
+}
